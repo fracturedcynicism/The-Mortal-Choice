@@ -1,8 +1,7 @@
-Book Two: The Tragic Fall
 Sargas follow the road taken. Passages marked SHADOW ROAD follow the other path: the same nights, under a different hand on the glass.
 ---
-CHAPTER : SARGA I: The Toll at Janasthan
-> **[THE ROAD TAKEN]**
+CHAPTER I: The Toll at Janasthan
+> \*\*\[THE ROAD TAKEN]\*\*
 The river at Janasthan had been dead for eleven years, and the people who lived along its banks had learned to call it by its new name, which was the Ledger.
 It ran through the scrub in a long bed of cracked grey silt, a channel the width of a road with a single thread of brown water at its centre, and that thread was owned. Ram saw the first sign of it at the bend, where a pole had been driven into the bank and a sheet of corrugated tin nailed to its top. Someone had painted on the tin in white letters, neat and patient: TOLL FOR CLEAN WATER. Beneath the words, in smaller script, a list of figures. Beneath the list, a second line, added later in a different hand: Pilgrims half.
 "Clean," said Lakshman, reading it aloud. He said it the way a man says a word he has been told is a joke. "There's no clean water between here and the sea."
@@ -168,7 +167,7 @@ Behind them, on the broken wall, Lakshman had sat down heavily with his bow acro
 "We'd better go," he said, without looking up. "Before the stacks wake up properly. There'll be more on the road. And the ledger will want its own count."
 ---
 Shadow I: The Night the Glass Woke
-> **[SHADOW ROAD]** *The night the glass woke, under the hand that accepted it.*
+> \*\*\[SHADOW ROAD]\*\* \*The night the glass woke, under the hand that accepted it.\*
 The panel did not wait for him to speak. It had been waiting for two hundred years, and it had no patience left for ceremony.
 Ram stood in the cold round room beneath the north rampart with his right palm pressed flat against the black glass. He had not taken it off since the pulse had caught. The surface was colder than it had any right to be, colder than the river had been on the morning he had come down the causeway in the sun, and it seemed to draw the heat out of his hand and his wrist and the long bones of his forearm, and in exchange it gave him back his own heartbeat, slow and heavy, rising through the stone and the iron and the glass until it filled the whole room.
 Four, two, six.
@@ -250,8 +249,8 @@ Not yet. Not for a long time yet.
 But it was coming, the way the monsoon comes to a dry country, with a low grey wall of cloud and a smell of wet earth and a long slow rumble of thunder across the dead fields.
 He could feel it on his skin.
 ---
-CHAPTER : SARGA II: The Golden Deer
-> **[THE ROAD TAKEN]**
+CHAPTER II: The Golden Deer
+> \*\*\[THE ROAD TAKEN]\*\*
 They walked north-west from the ford for two days, away from the stacks and the haze, until the air cleared enough to see stars. Ram had not expected the relief of it. He had grown so used to the orange sky over Janasthan that the first night under a black dome of stars made him stand still in the scrub and stare upward like a man who has been told he is looking at a painting.
 Lakshman did not stare. He walked with his left arm held close against his ribs, where the Khar brothers' rifle had grazed him on the second morning, a shallow furrow across the meat of the forearm that he had bound with a strip of his shirt and refused to let anyone look at. Every hour or so Ram saw him flex the fingers and wince, and then go on walking without a word.
 "It's nothing," Lakshman said, when Ram asked.
@@ -387,7 +386,7 @@ Behind him, very quietly, Lakshman came down into the gully and sat beside him i
 They stayed like that until the sky began to pale in the east, and the stacks along the horizon woke up one by one with their grey breath, and the first thin light of the morning came down over the dead country like a sheet of cold water poured onto a face.
 ---
 Shadow II: The Vaults
-> **[SHADOW ROAD]** *Sita in the vault, under the house that answers to him.*
+> \*\*\[SHADOW ROAD]\*\* \*Sita in the vault, under the house that answers to him.\*
 The vaults were older than the palace. Ram had been told that as a child, by a servant who had brought him down the stone stairs once to show him the armoury racks, and who had said, with a nervous glance over her shoulder, that the rooms below the spires had been dug out by men who were already old when the first stones of the citadel were laid. The servant had not liked the vaults. She had said the air down there was wrong. It did not move. It stayed exactly where you left it, and when you breathed it in, you could taste the years.
 He went down now with a single lamp in his hand and the two guards at the top of the stair, and the air did not move.
 It was cool and dry and still. It smelled of old mortar and iron and something sharper underneath, a clean bitter smell like dust scraped off a bronze bell. The stairs were narrow. The walls were lined with blocks of pale stone, each one fitted so tightly to the next that not even a knife-blade could have slipped between them, and the lamp-flame made the stone seem to shift and breathe as he passed. At the foot of the stair the passage opened into a long low corridor, with iron doors set into its walls at intervals of ten paces. Each door had a small square grille at head height, and each grille was dark.
@@ -462,8 +461,8 @@ It was not a hymn. It was not a chant or a prayer or a lament. It was a short, l
 He did not ask the guards to go in.
 He stood there with his hand on the steel, and his pulse beat steadily under his palm, and he listened to the tune rise and fall through the stone, very faint and very clear, until at last it stopped, and the silence came back, and he went up the stairs to the roof, where the engines were turning slowly in their mounts, and the towers were lit, and the face on every spire was smiling down on the city with its wide, open, unanswered question.
 ---
-CHAPTER : SARGA III: The Hill of Rishyamuk
-> **[THE ROAD TAKEN]**
+CHAPTER III: The Hill of Rishyamuk
+> \*\*\[THE ROAD TAKEN]\*\*
 They did not go south. Lakshman said so on the first morning, sitting on the lip of the gully with his bound arm across his knees and the sun coming up white and cold over the stacks.
 "The sea's a hundred miles of salt and wire," he said. "Vashkar's men are on every shoreline with their searchlights up. We walk straight down the coast with two bows and a bag of rice, and they'll see us from the air before we're close enough to spit at the water. Gidh said there's a way in. He didn't say what it cost."
 "Who knows the way?" Ram asked.
@@ -615,7 +614,7 @@ The brokers don't pay for poor bargains.
 Somebody had paid for this one. He did not yet know who.
 ---
 Shadow III: The Ravine of the Ledger
-> **[SHADOW ROAD]** *The Janasthan burned on the order of the one who gave it.*
+> \*\*\[SHADOW ROAD]\*\* \*The Janasthan burned on the order of the one who gave it.\*
 The engines were not made for ravines. Ram had known that since the day he first walked the north rampart as a boy and watched the old men tune the long black barrels for the morning test. They were made for open ground, for long clean sightlines across a field where nothing could hide. They were made to see the whole of a country at once and to answer the pulse of the man who stood above them.
 The Janasthan wards were not open ground.
 They were a maze of broken embankments and dry gullies and choked thorn-thickets, laced with the old rail-cuttings that the brokers had dug through the scrub a generation ago and then abandoned, and every cutting was a trap. The Khar brothers had understood that long before the vanguard arrived. They had dug their men into the cliffs above the cuttings, in deep stone bunkers reinforced with salvaged plate, and when the vanguard came marching down the Ledger's dry bed in the grey pre-dawn light, the bunkers opened, and the first volley came down the cutting like a hailstorm.
@@ -710,8 +709,8 @@ AUTHORISE. DIRECT THE ENGINES. SOUTH.
 He looked at the words for a long time. Then he laid his palm back on the screen, and said, in a voice so quiet that the crew-chief had to lean forward to hear it:
 "Yes."
 ---
-CHAPTER : SARGA IV: The Caves of the Boats
-> **[THE ROAD TAKEN]**
+CHAPTER IV: The Caves of the Boats
+> \*\*\[THE ROAD TAKEN]\*\*
 The boats had been hidden for thirty years in a cave behind a curtain of creeper: eleven hulls of salvaged plate riveted to teak ribs, two of them still whole. Kesh looked them over with his pipe clenched in his teeth. Three needed new ribs, four needed plate along the waterline, and the rest were firewood. Ten days if the men worked, he said. They would not work fast. They were tired, and frightened, and sick of being led by a king who used to be a mechanic.
 Ram worked the shelf with them through the long grey days, holding plates while the men hammered, and they watched him sidelong. He had not spoken of Vaal since the summit. He had not spoken of him to Kesh, who had buried his brother without weeping, or to Hanu, who had come back from the caves with a look Ram did not like.
 Lakshman noticed.
@@ -815,7 +814,7 @@ Kesh nodded. He put the pipe back in his teeth.
 "I know that too," said Ram. "I'll try anyway."
 ---
 Shadow IV: The Sea Road
-> **[SHADOW ROAD]** *The sea-line, the offer that was taken, and the dawn after.*
+> \*\*\[SHADOW ROAD]\*\* \*The sea-line, the offer that was taken, and the dawn after.\*
 The engines did not want to go south. Ram had known that since the morning the ravine was burned. He had felt it in the pulse, in the faint reluctant drag that came up through the panel every time he laid his palm on it and asked them to turn. They were machines built to stand on a rampart and face inward, toward the city, toward the spires and the one house that could give them a word. They had never been asked to walk. They had never been asked to cross a burnt country on flatbed trucks, with the ash coming up in grey clouds from the wheels and the smell of scorched thorn hanging over every mile of the road.
 But they went. They went because he asked, and because the house had always answered, and because there was nothing left in the north that could make him stop.
 The column stretched for nearly six miles. It was made of the vanguard's survivors, a few hundred men with their heads bowed and their rifles slung, and a long procession of flatbeds loaded with the black barrels of the engines, each one chained down and hooded in tarpaulin against the dust. At the head of the column rode the command-truck, a battered grey hulk with its cab windows blacked out and its roof-mounted aerials bent by the blast. Ram sat in the cab. He did not look out of the windows. He sat with his hands flat on his knees and his back straight against the seat, and every now and then he felt the thread of the pulse tug at his wrist, and he did not let go.
@@ -912,8 +911,8 @@ He did not count. He did not need to. The pulse was counting for him. It was ste
 Behind him, out on the water, the island burned.
 And somewhere far to the north, in a basement under the dissolved offices of a board that no longer existed, a woman in a vault put down a song she had been humming for days, and listened, and did not sing again.
 ---
-CHAPTER : SARGA V: The Singing in the Tower
-> **[THE ROAD TAKEN]**
+CHAPTER V: The Singing in the Tower
+> \*\*\[THE ROAD TAKEN]\*\*
 Kanti was the oldest woman in the caves, and she had decided, some time in her eighties, that the dead were owed a story.
 She told it on the ninth night of the storm, when the rain had settled into a steady grey drumming against the cliffs and the cave was full of wet wool and woodsmoke and the smell of boiled rice. She sat at the back of the largest chamber on a flat stone with a bundle of driftwood at her feet and a clay lamp in her lap, and she did not look up as the people came in. They came in silently, one by one, from the shelf and the boats and the cook-fires, and they sat on the damp floor in a wide half-circle around her, and the children sat in front, with their knees pulled up under their chins, and nobody asked why.
 Ram sat near the back. Lakshman sat beside him with his bound arm across his lap. Hanu had come in last, dripping wet from a swim in the lagoon below the cliffs, and he sat on the rock by the entrance with a towel around his shoulders and his long quick face unusually still. Kesh did not come. He was in the boat-shed, working on the rudder of the Dasharatha by the light of a single lamp, and his hammer could be heard faintly through the rain.
@@ -1028,8 +1027,8 @@ Ram looked at him in surprise.
 "It's not a trick," said Ram.
 "No," said Lakshman. "I can see that now too."
 ---
-CHAPTER : SARGA VI: The Crossing
-> **[THE ROAD TAKEN]**
+CHAPTER VI: The Crossing
+> \*\*\[THE ROAD TAKEN]\*\*
 They launched on the first morning of the dry season, on a tide so low that the reef stood bare above the water for a mile in every direction, black and glistening and crusted with the pale shells of things that had died in the storm.
 The eleven boats went out in a line. Kesh led them from the lead boat, the Dasharatha, with the tiller under his big black hands and his pipe clenched in his teeth and his face set in an expression of such grim, absorbed concentration that Ram did not dare speak to him. Lakshman sat in the bow with his bow across his knees and his good hand on the gunwale, watching the water ahead as though it might try to stand up and bite him. The sails were bent on and drawing, and the wind came in soft and steady from the north-east, and the green sea parted under the bows in long clean ridges that ran back along the hull like the grain of wood.
 Ram sat in the stern beside Kesh, where he could see the whole line of boats strung out behind them across the glittering water, eleven small dark shapes against the blue. He did not count them. He knew how many there were. He had watched them load at the shelf that morning, one by one, with the staff and the fishermen and the thin silent boy from the western villages, who had come back up the cliff-path two days before with a sealed letter from the north and had insisted, very politely, on coming with them.
