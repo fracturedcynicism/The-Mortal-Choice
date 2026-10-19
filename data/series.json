@@ -1,37 +1,37 @@
 {
   "series": {
-    "title": "THE SANDHYA CYCLE",
+    "title": "The Mortal Choice",
     "subtitle": "Fractured Cynicism",
-    "tagline": "A series spanning over timelines with noir , cosmic horror and cyberpunk",
+    "tagline": "Ancient myth collides with dystopian steel in a story where claiming absolute power is the ultimate defeat.",
     "badge": "Series",
-    "synopsis": "A series spanning over timelines with noir , cosmic horror and cyberpunk",
+    "synopsis": "Ancient myth collides with dystopian steel in a story where claiming absolute power is the ultimate defeat.",
     "accentColor": "#C8832A",
     "accentDim": "#7A4E18"
   },
   "books": [
     {
       "id": 1,
-      "slug": "Sandhya cycle 1",
-      "title": "ASHES OF THE THIRTEENTH YEAR",
-      "subtitle": "Novel",
-      "file": "books/Sandhya cycle 1 ASHES OF THE THIRTEENTH YEAR.txt",
-      "setting": "Vedic India"
+      "slug": "The Mortal Choice 1",
+      "title": "The Shadow of Choice",
+      "subtitle": "Novella",
+      "file": "books/Book One: The Shadow of Choice.txt",
+      "setting": "Dystopian India"
     },
         {
       "id": 2,
-      "slug": "Sandhya cycle 2",
-      "title": "VENOM OF THE AGE",
-      "subtitle": "Novel",
-      "file": "books/Sandhya cycle 2 VENOM OF THE AGE.txt",
-      "setting": "Vedic India"
+      "slug": "The Mortal Choice 2",
+      "title": "The Tragic Fall",
+      "subtitle": "Novella",
+      "file": "books/Book Two: The Tragic Fall.txt",
+      "setting": "Dystopian India"
     },
         {
       "id": 3,
-      "slug": "Sandhya cycle 3",
-      "title": "THE TORTOISE BACK",
-      "subtitle": "Novel",
-      "file": "books/Sandhya cycle 3 THE TORTOISE BACK.txt",
-      "setting": "Future"
+      "slug": "The Mortal Choice 3",
+      "title": "The Final Reckoning",
+      "subtitle": "Novella",
+      "file": "books/Book Three: The Final Reckoning.txt",
+      "setting": "Dystopian India"
     }
   ]
 }
